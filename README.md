@@ -1,3 +1,3 @@
-# Aulas-Java-DevSchoolMJV
+## Projeto Novelas
 
-Repósitorio de atividades do curso Dev School Java
+Projeto desenvolvido em grupo para disciplina Bases Computacionais da Ciências - Universidade Federal do ABC
